@@ -1,0 +1,41 @@
+Sprint 1 (4 horas)
+========
+
+BACKLOG
+-------
+(Vazio)
+
+WORK IN PROGRESS
+----------------
+(Vazio)
+
+DONE
+----
+- Setup inicial do projeto;
+- Consultar a lista de números;
+- Ordenar a lista de números;
+- Exibir número faltante na lista;
+- Automaticação de tarefas com Makefile
+
+
+==============================================================
+==============================================================
+
+
+Sprint 2 (4 horas)
+========
+
+BACKLOG
+-------
+- Usar Redis na camada de cache;
+- Migrar camada de dados de CSV para o MongoDB;
+
+WORK IN PROGRESS
+----------------
+(Vazio)
+
+DONE
+----
+- Criar módulo para controle de cache;
+- Criar módulo para leitura da lista de números a partir de sua fonte (CSV, DB, API, etc...);
+- Usar camada de cache para evitar leitura dos números e todos os momentos;
