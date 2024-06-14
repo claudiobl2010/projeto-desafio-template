@@ -19,13 +19,13 @@ Projeto desafio template.
 ### Automações
 
 Setup inicial do ambiente local
-*$ make setup*
+##### $ make setup
 
 Executar o projeto desafio
-*$ make run*
+##### $ make run
 
 Validação da padronização do código
-*$ make lint*
+##### $ make lint
 
 Rodar os testes unitários
-*$ make tests*
+##### $ make tests
